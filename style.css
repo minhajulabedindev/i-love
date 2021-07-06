@@ -7,21 +7,26 @@ section{
     display: flex;
 }
 .fist-1{
-        background-image: url(./food-network-main/bg/bg1.jpg);
-        padding-bottom: 90px;
+        background-image: url(./bg2.jpg);
+        margin-top:0px ;
+        
+        padding-top: 15px;
     }
     h1{
         text-align:center;
         font-size: 6em;
         font-weight: 680;
         color: rgb(0, 0, 0);
-        padding-top:  30px;
-        margin-top: 1px;
+        padding-top:  0px;
+        margin-top: 20px;
+        text-shadow: 3px 4px 10px rgb(24, 18, 18) ;
     }
     .top{
        
        font-size:2em;
-       color: rgb(189, 178, 178);
+       color: rgba(223, 209, 209, 0.301);
+       text-align: center;
+       
     }
     span{
         color: rgb(12, 51, 12);
