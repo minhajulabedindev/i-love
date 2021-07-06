@@ -1,0 +1,193 @@
+body{
+    margin: 0 ;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    display: flex;
+}
+.fist-1{
+        background-image: url(./food-network-main/bg/bg1.jpg);
+        padding-bottom: 90px;
+    }
+    h1{
+        text-align:center;
+        font-size: 6em;
+        font-weight: 680;
+        color: rgb(0, 0, 0);
+        padding-top:  30px;
+        margin-top: 1px;
+    }
+    .top{
+       
+       font-size:2em;
+       color: rgb(189, 178, 178);
+    }
+    span{
+        color: rgb(12, 51, 12);
+    }
+
+
+.step6{
+    width: 400px;
+}
+img{
+    width: 300px;
+}
+.top2{
+    text-align: center;
+    margin: auto;
+}
+  .top2 h4{
+      font-weight: 650;
+      font-size: 2em;
+  }
+  .top2 ul{
+      font-size: 1.5;
+      width: 170px;
+      height: 100%;
+      margin: auto;
+      box-shadow: 2px 3px 4px grey;
+  }
+ h2{
+      font-weight: 600;
+      font-size: 2em;
+  }
+
+.fist-3{
+    text-align: justify;
+    width: 70%;
+    margin: auto;
+
+}
+
+
+
+.fist-4{
+    
+    margin: 25px;
+    text-align: justify;
+
+}
+  .fist-4 img{ 
+      border-radius: 50%;
+      height: 70%;
+      
+  }
+  .step3{
+      width: 80%;
+      height: 100%;
+      margin: 0 25px;
+
+  }
+  .step4{
+    width: 80%;
+    height: 100%;
+    margin:0 25px;
+    margin-top: 10px;
+      
+}
+.step5{
+    width: 80%;
+    height: 100%;
+    margin: 0 25px;
+      
+}
+.top3{
+    margin-top: 90px;
+    margin-left: 40px;
+    height: 80%;
+    border-radius: 50%;
+}
+.fist-5{ text-align: justify;
+    width: 90%;
+    margin: auto;
+
+}
+   .step6{
+       margin: 40px;
+       box-shadow: 2px 4px 10px grey;
+      padding: 15px;
+       border-radius: 15px;
+
+   }
+   .top5{ width:300px ;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 15px;
+    
+
+   }
+   .top6{
+    width:300px ;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 15px;
+       
+}
+.top7{
+    width:300px ;
+    height: 200px;
+    margin-left: 10px;
+    border-radius: 15px;
+       
+}
+.fist-6{
+    text-align: justify;
+    
+    width: 90%;
+    margin: auto;
+}
+.fist-7{
+    
+    margin-left: 150px;
+  
+    
+    
+}
+.step7{
+    margin: 11px;
+    margin-left: 125px;
+    box-shadow: 2px 3px 10px grey;
+    padding:40px 80px ;
+    
+    border-radius: 20px;
+   
+}
+
+.step8{
+    margin: 11px;
+    box-shadow: 2px 3px 10px grey;
+    padding:40px 80px;
+    border-radius: 20px;
+
+
+}
+
+
+.step9{
+    margin: 11px;
+    box-shadow: 2px 3px 10px grey;
+    padding:45px 85px ;
+    border-radius: 20px;
+}
+.m{
+    font-size:2em;
+    font-weight: 700;
+
+
+
+}
+h5{
+    text-align: center;
+    font-weight: 1.6em;
+}
+    footer p 
+    {
+        text-align: center;
+        box-shadow: 2px 3px 8px rgb(194, 186, 186);
+        
+    }
+    footer{
+        margin-top: 15px;
+    }
